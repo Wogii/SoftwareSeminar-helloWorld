@@ -14,7 +14,7 @@ public class HelloWorld {
         
         //test
         //fan om det inte fungerar
-        // ytterligare ett test
+        // ytterligare ett test  // ok Diff fungerar /mike
     }
     
 }
