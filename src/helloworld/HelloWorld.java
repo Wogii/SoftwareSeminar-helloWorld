@@ -11,6 +11,9 @@ public class HelloWorld {
     public void testMethod(){
     // for testing in Github
         System.out.println("Hej");
+        
+        
+        //fan om det inte fungerar
     }
     
 }
