@@ -11,10 +11,11 @@ public class HelloWorld {
     public void testMethod(){
     // for testing in Github
         System.out.println("Hej ändra denna");
-        System.out.println("Hej Jocke här :D");
+        System.out.println("Hej testar diff");
         //test
         //fan om det inte fungerar
         // ytterligare ett test  // ok Diff fungerar /mike
+        
     }
     
 }
