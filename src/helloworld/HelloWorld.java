@@ -12,7 +12,7 @@ public class HelloWorld {
     // for testing in Github
         System.out.println("Hej ändra denna");
         System.out.println("Hej testar diff");
-        //test
+        System.out.println("Hello Kristianstad");
         //fan om det inte fungerar
         // ytterligare ett test  // ok Diff fungerar /mike
         
