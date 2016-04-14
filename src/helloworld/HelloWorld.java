@@ -14,9 +14,7 @@ public class HelloWorld {
         System.out.println("Hej testar diff");
         System.out.println("Hello Kristianstad");
         //fan om det inte fungerar
-        //test hallå
-        
-        // test 2
+        //test igen hej
        
         // ytterligare ett test  // ok Diff fungerar /mike
         
